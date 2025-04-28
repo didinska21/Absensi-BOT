@@ -15,7 +15,7 @@ Bot ini digunakan untuk mencatat absensi (cek-in harian) pada daftar airdrop yan
 1. Clone repository ini:
 
     ```bash
-    git clone https://github.com/username/Absensi-BOT.git
+    git clone https://github.com/didinska21/Absensi-BOT.git
     cd Absensi-BOT
     ```
 
